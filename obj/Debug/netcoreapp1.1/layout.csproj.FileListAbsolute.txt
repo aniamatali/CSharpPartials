@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Layout/bin/Debug/netcoreapp1.1/layout.deps.json
+/Users/Guest/Desktop/Layout/bin/Debug/netcoreapp1.1/layout.runtimeconfig.json
+/Users/Guest/Desktop/Layout/bin/Debug/netcoreapp1.1/layout.runtimeconfig.dev.json
+/Users/Guest/Desktop/Layout/bin/Debug/netcoreapp1.1/layout.dll
+/Users/Guest/Desktop/Layout/bin/Debug/netcoreapp1.1/layout.pdb
+/Users/Guest/Desktop/Layout/obj/Debug/netcoreapp1.1/layout.AssemblyInfo.cs
+/Users/Guest/Desktop/Layout/obj/Debug/netcoreapp1.1/layout.dll
+/Users/Guest/Desktop/Layout/obj/Debug/netcoreapp1.1/layout.pdb
